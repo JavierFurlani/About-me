@@ -1,5 +1,5 @@
-# Welcome to my public repository
-## Bienvenido a mi repositorio público
+# Welcome to my repository
+## Bienvenido a mi repositorio
 
 What about me? I'm a graphic designer, illustrator, printerman, photographer and web developer.
 Love technology and all kind of widgets to simplify daily tasks.
